@@ -1,0 +1,29 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    background-color: red;
+}
+
+%nazwa
+{
+    font-weight: 700;
+    color: rgb(34, 164, 103);
+}
+
+.form-row
+{
+    font-size: 20px;
+    @extend %nazwa;
+}
+
+.form-group
+{
+    font-size: 15px;
+    @extend %nazwa;
+}

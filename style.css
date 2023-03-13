@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: red;
+}
+
+.form-group, .form-row {
+  font-weight: 700;
+  color: rgb(34, 164, 103);
+}
+
+.form-row {
+  font-size: 20px;
+}
+
+.form-group {
+  font-size: 15px;
+}/*# sourceMappingURL=style.css.map */
